@@ -9,7 +9,7 @@ module.exports = {
     "fetchSize": 100
   },
   "type": "MYSQL",
-  "name": "mysql-ds-creator92",
+  "name": "mysql-ds-creator3",
   "metadataPolicy": {
     "authTTLMs": 86400000,
     "namesRefreshMs": 3600000,
