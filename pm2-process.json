@@ -1,0 +1,9 @@
+{
+    "script": "npm start",
+    "watch": true,
+    "ignore_watch": ["log","node_modules","tests","utils","package.json","package-lock.json","gulpfile.js"],
+    "watch_options": {
+        "followSymlinks": false
+    },
+    "name": "DREMIO API"
+}
